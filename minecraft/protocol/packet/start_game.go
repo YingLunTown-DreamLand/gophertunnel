@@ -3,8 +3,8 @@ package packet
 import (
 	"github.com/go-gl/mathgl/mgl32"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/YingLunTown-DreamLand/gophertunnel/minecraft/nbt"
+	"github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 )
 
 const (

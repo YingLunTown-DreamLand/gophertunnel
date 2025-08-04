@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 )
 
 // minecraftAuthURL is the URL that an authentication request is made to to get an encoded JWT claim chain.

@@ -1,4 +1,4 @@
-module github.com/sandertv/gophertunnel
+module github.com/YingLunTown-DreamLand/gophertunnel
 
 go 1.24
 

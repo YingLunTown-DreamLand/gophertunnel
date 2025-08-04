@@ -1,8 +1,8 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/YingLunTown-DreamLand/gophertunnel/minecraft/nbt"
+	"github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 )
 
 const (
