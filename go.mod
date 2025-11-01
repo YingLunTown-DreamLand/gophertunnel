@@ -6,7 +6,6 @@ require (
 	github.com/df-mc/jsonc v1.0.5
 	github.com/go-gl/mathgl v1.1.0
 	github.com/go-jose/go-jose/v4 v4.1.0
-	github.com/golang/snappy v0.0.4
 	github.com/google/uuid v1.6.0
 	github.com/klauspost/compress v1.17.11
 	github.com/pelletier/go-toml v1.9.5
