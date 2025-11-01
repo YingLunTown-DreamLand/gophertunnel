@@ -8,8 +8,8 @@ import (
 	"sync"
 
 	"github.com/YingLunTown-DreamLand/gophertunnel/minecraft/internal"
-	"github.com/golang/snappy"
 	"github.com/klauspost/compress/flate"
+	"github.com/klauspost/compress/snappy"
 )
 
 // Compression represents a compression algorithm that can compress and decompress data.
