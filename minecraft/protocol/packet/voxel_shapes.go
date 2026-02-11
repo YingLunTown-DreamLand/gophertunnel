@@ -1,8 +1,6 @@
 package packet
 
-import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-)
+import "github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 
 // VoxelShapes is sent by the server to send voxel shape data to the client.
 type VoxelShapes struct {

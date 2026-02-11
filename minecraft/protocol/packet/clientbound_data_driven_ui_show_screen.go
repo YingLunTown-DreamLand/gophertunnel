@@ -1,8 +1,6 @@
 package packet
 
-import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-)
+import "github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 
 // ClientBoundDataDrivenUIShowScreen is sent by the server to show a data-driven UI screen on the client.
 type ClientBoundDataDrivenUIShowScreen struct {

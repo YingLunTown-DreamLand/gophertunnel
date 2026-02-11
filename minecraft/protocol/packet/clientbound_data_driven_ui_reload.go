@@ -1,8 +1,6 @@
 package packet
 
-import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-)
+import "github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 
 // ClientBoundDataDrivenUIReload is sent by the server to reload the data-driven UI on the client.
 type ClientBoundDataDrivenUIReload struct{}

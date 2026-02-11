@@ -1,8 +1,6 @@
 package packet
 
-import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-)
+import "github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 
 // CameraSpline is sent by the server to define camera spline paths.
 type CameraSpline struct {

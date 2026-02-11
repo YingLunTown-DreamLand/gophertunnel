@@ -1,8 +1,6 @@
 package packet
 
-import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-)
+import "github.com/YingLunTown-DreamLand/gophertunnel/minecraft/protocol"
 
 // ClientBoundDataDrivenUICloseAllScreens is sent by the server to close all data-driven UI screens on the client.
 type ClientBoundDataDrivenUICloseAllScreens struct{}
